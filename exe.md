@@ -27,6 +27,7 @@ Já está na terceira forma normal
 	Orcamento(NumeroOrcamento ,Cliente,DataOrcamento ,Endereco ,(NomeDoAnimal,Procedimento,Valor)
 
 1Fn
+
 	Orcamento(__NumeroOrcamento__ ,Cliente ,Endereco ,DataOrcamento , __NomeDoAnimal__ ,__Procedimento__, Valor)
 	
 2Fn
@@ -35,6 +36,7 @@ Já está na terceira forma normal
 	Procedimento(__NumeroOrcamento__ ,__NomeDoAnimal__ ,__Procedimento__,Valor)
 
 3Fn
+
 	Orcamento(__NumeroOrcamento__ ,Cliente ,DataOrcamento)
 	Procedimento(__NumeroOrcamento__ ,__NomeDoAnimal__ ,__Procedimento__,Valor)
 	Cliente(__Cliente__ , Endereco)
