@@ -1,1 +1,3 @@
-Dedicado a estudo de git
+Esse repositório é dedicado a estudo de git
+===
+
