@@ -23,20 +23,20 @@ Já está na terceira forma normal
 ---
 
 0Fn
-
+	
+	Orcamento(NumeroOrcamento ,Cliente,DataOrcamento ,Endereco ,(NomeDoAnimal,Procedimento,Valor)
 
 1Fn
-
-	ficha(Nome_Da_clinica,data,numero_de_Orçamento,nome_Do_medico,endereco,n	ome_Do_animal,procedimento,valorTotal);
-
+	Orcamento(__NumeroOrcamento__ ,Cliente ,Endereco ,DataOrcamento , __NomeDoAnimal__ ,__Procedimento__, Valor)
+	
 2Fn
 
-	consulta(nome_Da_clinica,Numero_de_orçamento,data,valor),
-
-	medico(nome,endereço),
-
-	animal(numero_de_orcamento,nome, procedimento)
+	Orcamento(__NumeroOrcamento__ ,Cliente ,Endereco ,DataOrcamento)
+	Procedimento(__NumeroOrcamento__ ,__NomeDoAnimal__ ,__Procedimento__,Valor)
 
 3Fn
-
+	Orcamento(__NumeroOrcamento__ ,Cliente ,DataOrcamento)
+	Procedimento(__NumeroOrcamento__ ,__NomeDoAnimal__ ,__Procedimento__,Valor)
+	Cliente(__Cliente__ , Endereco)
+	
 
