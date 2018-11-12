@@ -7,7 +7,7 @@
 
 1Fn
 
-	Relato(__id__), nome, tipo, idade ,dono, (__dataVisita__,__idProcedimento__,procedimento))
+	Relato( __id__ ), nome, tipo, idade ,dono, (__dataVisita__,__idProcedimento__,procedimento))
 
 2Fn == 3Fn
 
