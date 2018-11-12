@@ -7,15 +7,15 @@
 
 1Fn
 
-	Relato(_id_, nome, tipo, idade ,dono, (_data_visita_,_id_procedimento_,procedimento))
+	Relato(__id__), nome, tipo, idade ,dono, (__dataVisita__,__idProcedimento__,procedimento))
 
 2Fn == 3Fn
 
-	Animal(_id_, nome, tipo, idade ,dono)
+	Animal(__id__, nome, tipo, idade ,dono)
   
-	Consulta(_id_,_data_visita_,_id_procedimento_)
+	Consulta(__id__,__dataVisita__,__idProcedimento__)
   
-	Procedimento(_id_procedimento_,procedimento)  
+	Procedimento(__idProcedimento__,procedimento)  
 
 Já está na terceira forma normal
 
