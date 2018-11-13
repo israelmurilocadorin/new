@@ -19,7 +19,7 @@
 
 Já está na terceira forma normal
 
-![a](https://github.com/Dayanfreitas/new/blob/master/image(1).png)
+![modeli relaional 1](https://github.com/Dayanfreitas/new/blob/master/imagens/imagee.png)
 
 2.Ficha de Orçamento
 ---
@@ -43,4 +43,5 @@ Já está na terceira forma normal
 	Procedimento(__NumeroOrcamento__ ,__NomeDoAnimal__ ,__Procedimento__,Valor)
 	Cliente(__Cliente__ , Endereco)
 	
+![modelo relacional 2](https://github.com/Dayanfreitas/new/blob/master/imagens/image.png)
 
