@@ -1,3 +1,6 @@
+Execício de Banco de dados sobre normalização
+===
+
 1.Relatório de Histório de Saúde
 ---
 
@@ -18,6 +21,8 @@
 	Procedimento(__idProcedimento__,procedimento)  
 
 Já está na terceira forma normal
+
+Modelo relacional
 
 ![modeli relaional 1](https://github.com/Dayanfreitas/new/blob/master/imagens/imagee.png)
 
@@ -42,6 +47,8 @@ Já está na terceira forma normal
 	Orcamento(__NumeroOrcamento__ ,Cliente ,DataOrcamento)
 	Procedimento(__NumeroOrcamento__ ,__NomeDoAnimal__ ,__Procedimento__,Valor)
 	Cliente(__Cliente__ , Endereco)
+
+Modelo relacional
 	
 ![modelo relacional 2](https://github.com/Dayanfreitas/new/blob/master/imagens/image.png)
 
