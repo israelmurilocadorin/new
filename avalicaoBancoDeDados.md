@@ -20,7 +20,8 @@ Execício de Banco de dados sobre normalização
    
    B) - Não --> Não pois para calcular depende de dois atributos 
 
-7. A) - 
+7. A) -
+
 	1FN
 
 Projeto(__CodProjeto__,descricao ,tipo ,__codEmpregado__ ,nome ,catEmpregado ,salario ,dataInicio ,tempoAlocado);
