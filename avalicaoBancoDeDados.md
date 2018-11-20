@@ -41,4 +41,4 @@ Empregado(__codEmpregado__,nome,catFuncional);
 Funcao(__catFuncional__,salario);
 
    B) -
-   [](https://github.com/Dayanfreitas/new/blob/master/imagens/imagem2.png)
+   ![nada](https://github.com/Dayanfreitas/new/blob/master/imagens/imagem2.png)
