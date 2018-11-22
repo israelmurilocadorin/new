@@ -1,0 +1,102 @@
+body {
+  width: 100%;
+  margin: auto;
+  font-family: Roboto;
+  line-height: 1.5;
+  background: #033076;
+}
+
+.imagem-inicio {
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.algo {
+  text-align: center;
+  border: thin black solid;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 10px;
+  margin-top: 70px;
+  margin-bottom: 200px;
+  margin-left: 550px;
+  margin-right: 550px;
+  background: rgb(241,231,103);
+  background: -moz-linear-gradient(top, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(241,231,103,1) 0%,rgba(254,182,69,1) 100%);
+  background: linear-gradient(to bottom, rgba(241,231,103,1) 0%,rgba(254,182,69,1) 100%);
+
+}
+
+.margem-direita {
+  width: 30%;
+  text-align: justify;
+  font-style: Roboto;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 2%;
+  margin-left: 60%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.margem-esquerda {
+  width: 30%;
+  text-align: justify;
+  font-style: Roboto;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 2%;
+  margin-left: 6%;
+  margin-top: 70px;
+  margin-bottom: 80px;
+}
+
+
+.padrao-cores {
+  color: Black;
+  background: rgb(226,226,226);
+  background: -moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 53%, rgba(209,209,209,1) 66%, rgba(209,209,209,1) 77%, rgba(254,254,254,1) 95%);
+  background: -webkit-linear-gradient(top, rgba(226,226,226,1) 0%,rgba(219,219,219,1) 53%,rgba(209,209,209,1) 66%,rgba(209,209,209,1) 77%,rgba(254,254,254,1) 95%);
+  background: linear-gradient(to bottom, rgba(226,226,226,1) 0%,rgba(219,219,219,1) 53%,rgba(209,209,209,1) 66%,rgba(209,209,209,1) 77%,rgba(254,254,254,1) 95%);
+}
+
+.listagem {
+  text-align: left;
+}
+
+.titulo-center {
+  text-align: center;
+  font-weight: 1000;
+}
+
+.center {
+  text-align: center;
+}
+
+.margem-tabela {
+  text-align: center;
+  font-style: Roboto;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  margin-left: 70px;
+  margin-right: 60%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.rodape {
+  position:realtive;
+}
+
+.image2 {
+  margin-left: 120%;
+}
